@@ -1,4 +1,4 @@
-# circle_coffee
+# s2r_kitchen
 
 A new Flutter project.
 
